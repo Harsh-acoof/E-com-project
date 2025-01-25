@@ -12,7 +12,7 @@ Validation: Includes input validation for incoming requests using annotations.
 Exception Handling: Custom exception handling for better error responses.
 
 
-Technologies Used
+Technologies Used:
 Spring Boot: Backend framework
 Spring Web: To build RESTful services
 Spring Data JPA: For database interaction
@@ -20,7 +20,7 @@ H2 Database: (or replace with any other relational DB)
 Maven: Build and dependency management tool
 
 
-Endpoints
+Endpoints:
 GET /api/product: Fetch all resources
 GET /api/product/{id}: Fetch a single resource by ID
 POST /api/product: Create a new resource
