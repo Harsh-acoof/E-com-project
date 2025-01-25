@@ -1,0 +1,1 @@
+INSERT INTO products (product_Available,brand,category,description,name,price,stock_Quantity,release_Date) VALUES (true,'suzuki','car','fine products','balano',5600000,20,'2013-05-09');
